@@ -1,0 +1,2 @@
+# mern-student-backend
+server
